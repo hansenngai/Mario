@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level2()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ level1.\r\n\ \r\n
+comment1.params=number\ x\ y
+comment1.target=void\ addBlock(int,\ int,\ int)
+comment1.text=\r\n\ Adds\ the\ basis\ blocks\ in\ the\ world.\r\n\ The\ user\ has\ to\ specify\ the\ number\ of\ the\ block\ and\ its\ coordinates\ on\ the\ screen\r\n\ @param\ number\ -\ the\ number\ of\ the\ block\r\n\ @param\ x\ -\ the\ x-coordinate\r\n\ @param\ y\ -\ the\ y-coordinate\r\n
+numComments=2

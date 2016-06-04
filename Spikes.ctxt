@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Stripes\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ checkHitLeft()
+comment1.text=\r\n\ If\ spikes\ are\ to\ the\ left\ of\ Mario\ and\ touches\ him,\ Mario\ looses\ a\ life.\r\n\ Gives\ Mario\ a\ delay\ of\ 30\ pixels\ before\ inflicting\ more\r\n
+comment2.params=
+comment2.target=void\ checkHitRight()
+comment2.text=\r\n\ If\ spikes\ are\ to\ the\ right\ of\ Mario\ and\ touches\ him,\ Mario\ looses\ a\ life.\r\n\ Gives\ Mario\ a\ delay\ of\ 30\ pixels\ before\ inflicting\ more\r\n
+numComments=3

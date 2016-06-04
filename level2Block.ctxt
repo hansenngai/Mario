@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=level2Block(greenfoot.GreenfootImage)
+comment1.params=image\ pass
+comment1.target=level2Block(greenfoot.GreenfootImage,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ level2Block\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=boolean\ getPass()
+numComments=4

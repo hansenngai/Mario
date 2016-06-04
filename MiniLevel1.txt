@@ -1,0 +1,23 @@
+bMbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+b b                              b
+b b                              b
+b b  ccccc                       b
+b b  bbbbb                       b
+b b  cccccc    ccccccccccc       b
+b b  cccccc    bbbbbbbbbbb       b
+b b  bbbbbb                      b
+b b           ccccccccccc        b
+b b           bbbbbbbbbbb        b
+b b   ccccc                      b
+b b   bbbbb                      b
+b b                              b
+b b                              b
+b b       C  bb cccccccccccccc   b
+b b     cc cc   cccccccccccccc   b
+b b                              b
+b b            bbbbbbbbbbbbbbb   b
+b           j  ccccccccccccccb   b
+b       bbbbb  ccccccccccccccb   b 
+b              ccccccccccccccb   b
+b   j          ccccccccccccccb N b
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

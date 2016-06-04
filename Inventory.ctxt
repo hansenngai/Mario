@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=target
+comment0.target=Inventory(Mario)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Inventory\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkTouchObject()
+comment3.params=
+comment3.target=void\ drawObjects()
+comment4.params=index
+comment4.target=void\ removeObject(int)
+comment5.params=
+comment5.target=void\ useObject()
+comment6.params=
+comment6.target=void\ open()
+comment7.params=
+comment7.target=void\ close()
+comment8.params=
+comment8.target=void\ checkStop()
+comment9.params=
+comment9.target=void\ checkClicked()
+numComments=10
